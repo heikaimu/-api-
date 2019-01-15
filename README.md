@@ -5,8 +5,7 @@ https://api.douban.com/v2
 
 ## 电影
 
-* 列表 
-type=in_theaters/coming_soon/top250
+* ####列表 type=in_theaters/coming_soon/top250
 ```
 /movie/${type}?start=0&count=20
 ```
